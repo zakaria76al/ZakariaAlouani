@@ -6,17 +6,17 @@
   <a href="mailto:zakaria76alouani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
-** About me**
+## About me
 - <samp>👨🏽‍💻  I’m currently working on underwater acoustic signal classification using Deep Learning.
 - <samp>🎓  I’m recently graduated from the National Institute of Statistics and Applied Economics - Master's Degree at <a href="http://www.insea.ac.ma/">INSEA</a> of Rabat, Morocco. 
 - <samp>💬  If you need any help, ask me.
 - <samp>📫  Reach me at: zakaria76alouani@gmail.com or z.alouani@insea.ac.ma.
 
-**My Github stats 📈**<br />
+## My Github stats 📈**<br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakaria76al&theme=light&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria76al&layout=compact&theme=light" alt="top-langs" />
 </p>
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages are most used in my repositories*
+### NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages are most used in my repositories

@@ -1,14 +1,14 @@
 # ZakariaAlouani
 <h2 align="center"><samp>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/zakaria76al">Zakaria Alouani</a></samp></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/zakaria-alouani/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://www.instagram.com/zakaria_alouani/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zakaria-alouani/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:zakaria76alouani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/zakaria_alouani/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ## About me
-- <samp>👨🏽‍💻  I’m currently working on underwater acoustic signal classification using Deep Learning.
-- <samp>🎓  I’m recently graduated from the National Institute of Statistics and Applied Economics - Master's Degree at <a href="http://www.insea.ac.ma/">INSEA</a> of Rabat, Morocco. 
+- <samp>👨🏽‍💻  I’m a PhD Student in Artificial Intelligence applied to medical healthcare, currently working on medical signal processing using Deep Learning.
+- <samp>🎓  Graduated from the National Institute of Statistics and Applied Economics - Master's Degree at <a href="http://www.insea.ac.ma/">INSEA</a> of Rabat, Morocco. 
 - <samp>💬  If you need any help, ask me.
 - <samp>📫  Reach me at: zakaria76alouani@gmail.com or z.alouani@insea.ac.ma.
 
